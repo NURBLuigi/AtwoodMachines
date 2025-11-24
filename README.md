@@ -9,7 +9,7 @@ This is a 3D visualization written in POV-Ray that compares Atwood machines of v
   4. Make yourself a cup of coffee because it may take awhile to render
 
 ### Linux
-  1. Install POV-Ray using your distro's package manager or the [tarball for version 3.6](http://www.povray.org/download/index-3.6.php)
+  1. Install POV-Ray using your distro's package manager
      ```bash
      sudo apt -y install povray
      ```
