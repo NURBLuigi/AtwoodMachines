@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/c8e1e541-8ebe-4ddf-9430-420c004f1a78
+https://github.com/user-attachments/assets/6aa19949-3984-4322-8336-93d364979883
 
 # AtwoodMachines
 This is a 3D visualization written in POV-Ray that compares Atwood machines of various mass distributions and records how long it takes for each mass to hit the ground.
